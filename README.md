@@ -49,3 +49,5 @@ this analysis is to understand how to use machine learning to make predictions u
 * low risk - precision 1 recall .94
 
 ## Summary
+
+the machine mearning model with the closest to 1 balanced accuracy is the best model to use and in this set it would be the Easy Ensemble AdaBoost Classifier. since it had an accuracy of 93% and all the rest had a accuracy of below 80%. the model that has a recall score closer to 1 is the ebst model to use. This means that the Easy Ensemble AdaBoost Classifier is the best choice on this criteria. so over all the model to use is the Easy Ensemble AdaBoost Classifier model. 
